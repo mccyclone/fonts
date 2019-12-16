@@ -1,3 +1,5 @@
+# Installed this on MintDawg for Pretty Bash Prompt
+
 Powerline fonts
 ===============
 
